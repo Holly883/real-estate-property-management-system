@@ -87,5 +87,5 @@ Actual Result: Payments displayed correctly
 
 
 
-👉 This alone can give you full testing marks.
+
 
